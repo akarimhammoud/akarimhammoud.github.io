@@ -14,3 +14,6 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/)
 
 <a href="https://www.linkedin.com/in/karimhamoud/" target="_blank">Go</a>
 
+
+[ok](http://stackoverflow.com){:target="_blank"}.
+
