@@ -6,7 +6,7 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/)
 
 ## Here is my list of projects:
 
-[1](images/image 1.jpg)
+[1](images/image%201.jpg)
 
 ### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751)
 
