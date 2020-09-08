@@ -4,7 +4,9 @@ I have a strong business, finance, and accounting backgreound as I worked as a F
 
 Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/)
 
-Here is my list of projects:
+## Here is my list of projects:
+
+[1](images/image 1.jpg)
 
 ### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751)
 
