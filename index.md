@@ -24,11 +24,11 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 #### [Analyzing Dr. Arbuthnot’s Baptism Records](https://rpubs.com/karim7mod/654382){:target="_blank"}
 
-#### ______________________________________________________________________
+===========================================================================
 
 #### [Loading Data into a Data Frame](https://rpubs.com/karim7mod/653816){:target="_blank"}
 
-______________________________________________________________________
+===========================================================================
 
 #### [Introduction to Data](https://rpubs.com/karim7mod/653815){:target="_blank"}
 
