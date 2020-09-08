@@ -12,3 +12,5 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/)
 
 ### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751)
 
+<a href="https://www.linkedin.com/in/karimhamoud/" target="_blank">Go</a>
+
