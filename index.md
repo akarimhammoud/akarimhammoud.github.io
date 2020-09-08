@@ -12,10 +12,3 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 ### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751){:target="_blank"}
 
-<a href="https://www.linkedin.com/in/karimhamoud/" target="_blank">Go</a>
-
-
-[ok](http://stackoverflow.com){:target="_blank"}
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
