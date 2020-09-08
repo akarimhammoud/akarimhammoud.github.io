@@ -3,17 +3,19 @@ Hello, my name is Karim Hammoud, I am a Data Scientist with high level of profin
 
 I have a strong business, finance, and accounting backgreound as I worked as a Financial Analyst and Accounting Management. 
 
-Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/)
+Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:target="_blank"}
 
 
 ## Here is my list of projects:
 
 <img src="images/Image1.jpg" width="450" height="400" >
 
-### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751)
+### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751){:target="_blank"}
 
 <a href="https://www.linkedin.com/in/karimhamoud/" target="_blank">Go</a>
 
 
-[ok](http://stackoverflow.com){:target="_blank"}.
+[ok](http://stackoverflow.com){:target="_blank"}
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
