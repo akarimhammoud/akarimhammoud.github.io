@@ -14,20 +14,32 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 ======================================================
 
-#### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751){:target="_blank"}
+#### [How to use SQL in Rstudio - Analyze a survey of six movies](https://rpubs.com/karim7mod/656751){:target="_blank"}
 
 ======================================================
 
-#### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751){:target="_blank"}
+#### [Analysing Flights from The Bureau of Transportation Statistics](https://rpubs.com/karim7mod/656751){:target="_blank"}
 
 ======================================================
 
-#### [3- analyzing the online sales in five different countries Australia, Belgium, France, Germany, United Kingdom](https://rpubs.com/karim7mod/643107){:target="_blank"}
+#### [Analyzing Dr. Arbuthnot’s Baptism Records](https://rpubs.com/karim7mod/654382){:target="_blank"}
 
 ======================================================
 
-#### [2- Creating new data frame with a subset](https://rpubs.com/karim7mod/641568){:target="_blank"}
+#### [Loading Data into a Data Frame](https://rpubs.com/karim7mod/653816){:target="_blank"}
 
 ======================================================
 
-#### [1- Create the function and calculate factrors](https://rpubs.com/karim7mod/639344){:target="_blank"}
+#### [Introduction to Data](https://rpubs.com/karim7mod/653815){:target="_blank"}
+
+======================================================
+
+#### [Analyzing the online sales in five different countries Australia, Belgium, France, Germany, United Kingdom](https://rpubs.com/karim7mod/643107){:target="_blank"}
+
+======================================================
+
+#### [Creating new data frame with a subset](https://rpubs.com/karim7mod/641568){:target="_blank"}
+
+======================================================
+
+#### [Create the function and calculate factrors](https://rpubs.com/karim7mod/639344){:target="_blank"}
