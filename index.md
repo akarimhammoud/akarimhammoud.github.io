@@ -12,11 +12,11 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 
 
-______________________________________________________________________
+......................................................................
 
 #### [How to use SQL in Rstudio - Analyze a survey of six movies](https://rpubs.com/karim7mod/656751){:target="_blank"}
 
-______________________________________________________________________
+......................................................................
 
 #### [Analysing Flights from The Bureau of Transportation Statistics](https://rpubs.com/karim7mod/656751){:target="_blank"}
 
