@@ -1,3 +1,4 @@
-## I want to first interduce my work for you
+## Thank you for checking this page
 
-### [Week1](https://rpubs.com/karim7mod/656751)
+### [How to use SQL in Rstudio](https://rpubs.com/karim7mod/656751)
+
