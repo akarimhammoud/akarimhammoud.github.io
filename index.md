@@ -15,7 +15,7 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 ======================================================================
 
 
-#### [How to use SQL in Rstudio - Analyze a survey of six movies](https://rpubs.com/karim7mod/656751){:target="_blank"}
+#### [How to use SQL in Rstudio - Analyze a survey of six movies](https://rpubs.com/karim7mod/658836){:target="_blank"}
 
 
 ======================================================================
