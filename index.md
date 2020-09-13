@@ -22,6 +22,12 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 ======================================================================
 
 
+#### [Summarizing Data](https://rpubs.com/karim7mod/659738){:target="_blank"}
+
+
+======================================================================
+
+
 #### [Analyzing Dr. Arbuthnot’s Baptism Records](https://rpubs.com/karim7mod/654382){:target="_blank"}
 
 
@@ -39,6 +45,12 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 
 ## Here is my list of Data Acquisition and Management projects:
+
+
+======================================================================
+
+
+#### [R Character Manipulation and Date Processing](https://rpubs.com/karim7mod/659719){:target="_blank"}
 
 
 ======================================================================
