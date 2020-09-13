@@ -5,17 +5,10 @@ I have a strong business, finance, and accounting background as I worked as a Fi
 
 Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:target="_blank"}
 
-
-## Here is my list of projects:
-
 <img src="images/Image1.jpg" width="450" height="400" >
 
 
-
-======================================================================
-
-
-#### [How to use SQL in Rstudio - Analyze a survey of six movies](https://rpubs.com/karim7mod/658836){:target="_blank"}
+## Here is my list of Statistics and Probability projects:
 
 
 ======================================================================
@@ -32,6 +25,19 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 ======================================================================
 
+<img src="images/Image2.jpg" width="450" height="400" >
+
+
+## Here is my list of Data Acquisition and Management projects:
+
+======================================================================
+
+
+#### [How to use SQL in Rstudio - Analyze a survey of six movies](https://rpubs.com/karim7mod/658836){:target="_blank"}
+
+
+======================================================================
+
 
 #### [Loading Data into a Data Frame](https://rpubs.com/karim7mod/653816){:target="_blank"}
 
@@ -41,6 +47,13 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 #### [Introduction to Data](https://rpubs.com/karim7mod/653815){:target="_blank"}
 
+
+======================================================================
+
+<img src="images/Image3.jpg" width="450" height="400" >
+
+
+## Analyzing using R:
 
 ======================================================================
 
