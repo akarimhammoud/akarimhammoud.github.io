@@ -12,6 +12,11 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 ## Here is my list of Statistics and Probability projects:
 
+======================================================================
+
+
+#### [Kobe Bryant Shots Probability](https://rpubs.com/karim7mod/659991){:target="_blank"}
+
 
 ======================================================================
 
