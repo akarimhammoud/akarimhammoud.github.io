@@ -25,10 +25,16 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 ======================================================================
 
+
+#### [Introduction to Data](https://rpubs.com/karim7mod/653815){:target="_blank"}
+
+
+
 <img src="images/Image2.jpg" width="450" height="400" >
 
 
 ## Here is my list of Data Acquisition and Management projects:
+
 
 ======================================================================
 
@@ -42,15 +48,10 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 #### [Loading Data into a Data Frame](https://rpubs.com/karim7mod/653816){:target="_blank"}
 
 
-======================================================================
 
 
-#### [Introduction to Data](https://rpubs.com/karim7mod/653815){:target="_blank"}
 
-
-======================================================================
-
-<img src="images/Image3.jpg" width="450" height="400" >
+<img src="images/Image3.png" width="450" height="400" >
 
 
 ## Analyzing using R:
