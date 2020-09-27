@@ -5,12 +5,32 @@ I have a strong business, finance, and accounting background as I worked as a Fi
 
 Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:target="_blank"}
 
+======================================================================
+
+
+#### [The use of Data Science in Finance](https://rpubs.com/karim7mod/664921){:target="_blank"}
+
+
+======================================================================
+
 <img src="images/Image1.jpg" width="450" height="400" >
 
 ======================================================================
 
 
 ## Here is my list of Statistics and Probability projects:
+
+======================================================================
+
+
+#### [Calories and Fastfood chain resturants](https://rpubs.com/karim7mod/665772){:target="_blank"}
+
+
+======================================================================
+
+
+#### [The normal distribution of Random Variables](https://rpubs.com/karim7mod/666286){:target="_blank"}
+
 
 ======================================================================
 
@@ -50,6 +70,18 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 
 ## Here is my list of Data Acquisition and Management projects:
+
+
+======================================================================
+
+
+#### [Data Cleaning Operations](https://rpubs.com/karim7mod/666335){:target="_blank"}
+
+
+======================================================================
+
+
+#### [Chess Tournament Data Munipulation](https://rpubs.com/karim7mod/662977){:target="_blank"}
 
 
 ======================================================================
