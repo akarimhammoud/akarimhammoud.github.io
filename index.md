@@ -41,6 +41,12 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 ======================================================================
 
 
+#### [Probability](https://rpubs.com/karim7mod/660168){:target="_blank"}
+
+
+======================================================================
+
+
 #### [Analysing Flights from The Bureau of Transportation Statistics](https://rpubs.com/karim7mod/656751){:target="_blank"}
 
 
