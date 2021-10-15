@@ -7,6 +7,10 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 ======================================================================
 
+•	[Built interactive visualization to analysis desease causing deaths in the US with ShinyApp](https://karimhammoud.shinyapps.io/shinyq1/){:target="_blank"}
+
+======================================================================
+
 •	[Web analytics for the SP 500 companies:](https://github.com/akarimhammoud/DATA-620/blob/main/Week_6_final%20project/602FinalV2.ipynb){:target="_blank"}
 Created network analysis between 500 companies using correlations, collecting the data using web scraping and API and predict sentiment analysis of stock movements and tweets.
 
@@ -24,20 +28,6 @@ Analyzed SP 500 and pick one of the companies stock like Apple, using Flexdashbo
 
 •	[Predicting the US 2020 election results with R:](https://rpubs.com/karim7mod/675911){:target="_blank"} 
 Created analysis and statistics to predict the outcome of the 2020 election.
-
-======================================================================
-
-
-
-
-
-
-
-
-
-
-
-
 
 ======================================================================
 
