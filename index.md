@@ -8,12 +8,22 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 ======================================================================
 
 •	[Web analytics for the SP 500 companies:](https://github.com/akarimhammoud/DATA-620/blob/main/Week_6_final%20project/602FinalV2.ipynb){:target="_blank"}
-created network analysis between 500 companies using correlations, collecting the data using web scraping and API and predict sentiment analysis of stock movements and tweets.![image](https://user-images.githubusercontent.com/68577624/137419982-1e3bc643-fa00-4c43-bb09-90ff4516517d.png)
+Created network analysis between 500 companies using correlations, collecting the data using web scraping and API and predict sentiment analysis of stock movements and tweets.
 
 ======================================================================
 
 •	[Natural Language Processing with Python:](https://github.com/akarimhammoud/DATA-620/blob/main/Week_5_project_3/Data_620_Project_3.ipynb){:target="_blank"} 
-built name / gender classifier between almost 8000 names and used multiple machine learning models like decision tree to improve the model from 60% accuracy to over 90% prediction accuracy.
+Built name / gender classifier between almost 8000 names and used multiple machine learning models like decision tree to improve the model from 60% accuracy to over 90% prediction accuracy.
+
+======================================================================
+
+•	[Creating Stock market dashboard with R:](https://rpubs.com/karim7mod/700934){:target="_blank"} 
+Analyzed SP 500 and pick one of the companies stock like Apple, using Flexdashboards, API’s, and webscrabing as a data source, to create a stocks analysis.
+
+======================================================================
+
+•	[Predicting the US 2020 election results with R:](https://rpubs.com/karim7mod/675911){:target="_blank"} 
+Created analysis and statistics to predict the outcome of the 2020 election.
 
 ======================================================================
 
@@ -27,8 +37,6 @@ built name / gender classifier between almost 8000 names and used multiple machi
 
 
 
-
-#### [The use of Data Science in Finance](https://rpubs.com/karim7mod/664921){:target="_blank"}
 
 
 ======================================================================
