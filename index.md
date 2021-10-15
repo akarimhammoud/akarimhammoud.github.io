@@ -13,7 +13,7 @@ This analysis is really helpful for health care companies to assess each state i
 ======================================================================
 
 •	[Web analytics for the SP 500 companies:](https://github.com/akarimhammoud/DATA-620/blob/main/Week_6_final%20project/602FinalV2.ipynb){:target="_blank"}
-Created network analysis between 500 companies using correlations, collecting the data using web scraping and API and predict sentiment analysis of stock movements and tweets.
+This analysis helps investors and traders to by created network analysis between 500 companies using correlations, collecting the data using web scraping and API and predict sentiment analysis of stock movements and tweets.
 
 ======================================================================
 
