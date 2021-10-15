@@ -8,9 +8,7 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 ======================================================================
 
 
-•	Web analytics for the SP 500 companies:![image](https://user-images.githubusercontent.com/68577624/137418510-f2a697e4-9909-4b73-aa3d-eb2ebd20fa88.png)
- (https://github.com/akarimhammoud/DATA-620/blob/main/Week_6_final%20project/602FinalV2.ipynb
-){:target="_blank"}
+•	[Web analytics for the SP 500 companies:](https://github.com/akarimhammoud/DATA-620/blob/main/Week_6_final%20project/602FinalV2.ipynb){:target="_blank"}
 
 
 
