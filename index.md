@@ -7,7 +7,7 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 ======================================================================
 
-•	[Built interactive visualization to analysis diseases causing deaths in the US with ShinyApp](https://karimhammoud.shinyapps.io/shinyq1/){:target="_blank"}
+•	[Built interactive visualization to analyze diseases causing deaths in the US with ShinyApp](https://karimhammoud.shinyapps.io/shinyq1/){:target="_blank"}
 This analysis is really helpful for health care companies to assess each state in the US with the highest causing death diseases.
 
 ======================================================================
