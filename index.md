@@ -7,7 +7,8 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 
 ======================================================================
 
-•	[Built interactive visualization to analysis desease causing deaths in the US with ShinyApp](https://karimhammoud.shinyapps.io/shinyq1/){:target="_blank"}
+•	[Built interactive visualization to analysis diseases causing deaths in the US with ShinyApp](https://karimhammoud.shinyapps.io/shinyq1/){:target="_blank"}
+This analysis is really helpful for health care companies to assess each state in the US with the highest causing death diseases.
 
 ======================================================================
 
@@ -36,7 +37,7 @@ Created analysis and statistics to predict the outcome of the 2020 election.
 ======================================================================
 
 
-## Here is my list of Statistics and Probability projects:
+## Below are more project using hypothesis and probalities.
 
 ======================================================================
 
@@ -93,61 +94,3 @@ Created analysis and statistics to predict the outcome of the 2020 election.
 ======================================================================
 
 
-## Here is my list of Data Acquisition and Management projects:
-
-
-======================================================================
-
-
-#### [Data Cleaning Operations](https://rpubs.com/karim7mod/666335){:target="_blank"}
-
-
-======================================================================
-
-
-#### [Chess Tournament Data Munipulation](https://rpubs.com/karim7mod/662977){:target="_blank"}
-
-
-======================================================================
-
-
-#### [R Character Manipulation and Date Processing](https://rpubs.com/karim7mod/659719){:target="_blank"}
-
-
-======================================================================
-
-
-#### [How to use SQL in Rstudio - Analyze a survey of six movies](https://rpubs.com/karim7mod/658836){:target="_blank"}
-
-
-======================================================================
-
-
-#### [Loading Data into a Data Frame](https://rpubs.com/karim7mod/653816){:target="_blank"}
-
-
-======================================================================
-
-
-<img src="images/Image3.png" width="450" height="400" >
-
-======================================================================
-
-## Analyzing using R:
-
-======================================================================
-
-
-#### [Analyzing the online sales in five different countries Australia, Belgium, France, Germany, United Kingdom](https://rpubs.com/karim7mod/643107){:target="_blank"}
-
-
-======================================================================
-
-
-#### [Creating new data frame with a subset](https://rpubs.com/karim7mod/641568){:target="_blank"}
-
-
-======================================================================
-
-
-#### [Create the function and calculate factrors](https://rpubs.com/karim7mod/639344){:target="_blank"}
