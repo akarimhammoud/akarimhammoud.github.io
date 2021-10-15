@@ -72,19 +72,7 @@ Created analysis and statistics to predict the outcome of the 2020 election.
 ======================================================================
 
 
-#### [Summarizing Data](https://rpubs.com/karim7mod/659738){:target="_blank"}
-
-
-======================================================================
-
-
 #### [Analyzing Dr. Arbuthnot’s Baptism Records](https://rpubs.com/karim7mod/654382){:target="_blank"}
-
-
-======================================================================
-
-
-#### [Introduction to Data](https://rpubs.com/karim7mod/653815){:target="_blank"}
 
 
 ======================================================================
