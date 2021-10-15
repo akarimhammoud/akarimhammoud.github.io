@@ -8,6 +8,21 @@ Please see [my linkedin profile](https://www.linkedin.com/in/karimhamoud/){:targ
 ======================================================================
 
 
+(https://github.com/akarimhammoud/DATA-620/blob/main/Week_6_final%20project/602FinalV2.ipynb
+){:target="_blank"}
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### [The use of Data Science in Finance](https://rpubs.com/karim7mod/664921){:target="_blank"}
 
 
