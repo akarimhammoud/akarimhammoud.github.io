@@ -3,8 +3,10 @@ Hello, I am a Data Scientist with a high level of proficiency in data and financ
 
 I have a strong business, finance, and accounting background as I worked as a Financial Analyst and Accounting Management.
 
-**To see my linkedin profile [click here](https://www.linkedin.com/in/karimhamoud/){:target="_blank"}**
 **To see my full Github page [click here](https://github.com/akarimhammoud){:target="_blank"}**
+
+**To see my linkedin profile [click here](https://www.linkedin.com/in/karimhamoud/){:target="_blank"}**
+
 ======================================================================
 
 •	[Built interactive visualization to analyze diseases causing deaths in the US with ShinyApp](https://karimhammoud.shinyapps.io/shinyq1/){:target="_blank"}
